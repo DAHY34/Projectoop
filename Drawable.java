@@ -1,0 +1,4 @@
+
+interface Drawable {
+     String howToDraw();
+}
